@@ -10,7 +10,7 @@ So, I decided to do a 21-day challenge wherein I will do:-
 3. 1 hour of rapid solving of simple codeforces problems daily.
 	
 I will be updating my daily progress in this readme file.
-And I will use the linkedin post for accountability of my everyday work (  ).
+And I will use the linkedin post for accountability of my everyday work ( https://www.linkedin.com/posts/vishesh-maheshwari-9b330b170_theviralv21-day-codeforces-activity-6714154093838929920-U1Jn ).
 
 The goal of this 21-day challenge is not increasing my ratings but to make a daily habit of solving problems.- 
 Hoping that all of you will help me in this journey.
