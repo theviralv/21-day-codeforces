@@ -15,7 +15,7 @@ And I will use the LinkedIn post for accountability of my everyday work
 
 The goal of this 21-day challenge is not increasing my ratings but to make a daily habit of solving problems. Hoping that all of you will help me in this journey.
 
-### 22 Sep 2020	Day (-1)	Trial day
+### 22 Sep 2020	Day ( -1 )	Trial day
 
 Half day half the work done and yes my day ends @4:35 AM.
 
@@ -25,3 +25,19 @@ Things done:
 2. Magic grid - 1800.
 3. Connected components on a chessboard - 1800.
 4. Number of permutations - 1800.
+
+### 23 Sep 2020    Day ( 0 )    Opening Day
+
+Did It all. Found that simple problems are my weakness have to improve.
+
+Things done:
+
+1. Educational round 94 virtually. Solved D!!
+2. **5** Simple problems for speed.
+3. Digits sequence (Hard) - 1800
+4. Recover it! - 1800
+5. Nauuo and cards - 1800
+6. Tokitsukaze CSL and stone game - 1800
+7. Vasya and array - 1800
+8. Submarine in the rybinsk sea - 1800
+9. Zigzags - 1900
