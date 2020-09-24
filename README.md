@@ -41,3 +41,15 @@ Things done:
 7. Vasya and array - 1800
 8. Submarine in the rybinsk sea - 1800
 9. Zigzags - 1900
+
+### 24 Sep 2020    Day ( 1 )    Contest Day
+
+Today's rated contest got me +56, its nice. But could not complete required number of problems due to some issues. Will compensate them in coming days.
+
+Things done:
+
+1. Codeforces round 672 ( div 2 ) rated. +56!!
+2. 5 Simple speed solves.
+3. Ugly pairs - 1800
+4. Two teams - 1800
+5. Neko does maths - 1800
