@@ -20,7 +20,7 @@ void AC_aaega(){
 	vector < ll > used(n+1, 0);
 	vector < ll > v2(n+1, 0);
 	set < ll > lf, rt;
-	for(ll i = 1;i<=n;i++){
+	for(ll i = 1;i<=n;i=i+1){
 		lf.insert(-i);
 		rt.insert(i);
 	}
@@ -61,6 +61,7 @@ void AC_aaega(){
 			lf.erase(-*it);
 			rt.erase(it);
 		}
+		//if(tt==1){tt =2} ; else tt= 1 ; 
 		tt = ((tt == 1)?2:1);
 	}
 	for(ll i =0;i<n;i++){
@@ -80,7 +81,6 @@ int main(){
 			freopen("/home/theviralv/Desktop/err.txt", "w", stderr);
 	#endif
 	ll testcases = 1;
-	// cin>>testcases;
 	while(testcases--){
 		AC_aaega();
 	}			
